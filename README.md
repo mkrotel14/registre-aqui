@@ -12,6 +12,7 @@
   <img src="https://user-images.githubusercontent.com/28939811/148005227-4ab1c62d-b353-41c6-8885-9922f36bf18a.png" height="400" />
   <img src="https://user-images.githubusercontent.com/28939811/148005234-238ecef2-6d11-46df-af7d-ec261eeb200c.png" height="400" />
 </div>
+
 ## About ##
 
 Mobile Application that displays infrastructure issues that your city may have.\
